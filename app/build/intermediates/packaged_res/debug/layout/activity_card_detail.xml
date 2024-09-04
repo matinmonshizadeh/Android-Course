@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CardDetailActivity">
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <ImageView
+                android:id="@+id/card_detail_main_image"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/house3"
+                />
+
+            <ImageView
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:padding="12dp"
+                android:src="@drawable/heart"
+                app:tint="@android:color/white"
+                android:layout_gravity="end"
+                android:background="@drawable/icon_card_detail_shape"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="20dp"/>
+
+
+            <ImageView
+                android:id="@+id/card_detail_back_icon"
+                android:layout_width="52dp"
+                android:layout_height="52dp"
+                android:padding="12dp"
+                android:src="@drawable/back"
+                app:tint="@android:color/white"
+                android:background="@drawable/icon_card_detail_shape"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="20dp"/>
+
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/card_detail_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="220dp"
+            android:text="$200.000"
+            android:textColor="@android:color/black"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/arimo"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/icon_card_detail_shape2"
+            android:text="20 hours ago"
+            android:paddingHorizontal="16dp"
+            android:paddingVertical="10dp"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="220dp"
+            android:layout_gravity="end"
+            android:layout_marginRight="16dp"
+            android:fontFamily="@font/arimo"/>
+
+        <TextView
+            android:id="@+id/card_detail_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="270dp"
+            android:text="Shiraz"
+            android:textSize="16sp"
+            android:fontFamily="@font/arimo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="House information"
+            android:textColor="@color/black"
+            android:layout_marginTop="330dp"
+            android:layout_marginLeft="16dp"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:fontFamily="@font/arimo"
+            />
+
+
+        <FrameLayout
+            android:id="@+id/card_detail_recycler_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="370dp"
+            android:layout_marginLeft="16dp">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerCardDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:listitem="@layout/item_card_detail"
+                android:clipToPadding="false"/>
+
+        </FrameLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Nunc sed augue lacus viverra. Amet purus gravida quis blandit turpis cursus in hac. Nibh praesent tristique magna sit amet purus gravida quis blandit. Ullamcorper sit amet risus nullam."
+            android:textColor="@color/black"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="16dp"
+            android:fontFamily="@font/arimo"/>
+
+
+
+        <!-- FloatingActionButton for Call -->
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|bottom"
+            android:layout_marginStart="120dp"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/ic_phone"
+            app:backgroundTint="@android:color/white"/>
+
+        <!-- FloatingActionButton for Message -->
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fabMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:layout_marginEnd="120dp"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/ic_email"
+            app:backgroundTint="@android:color/white"/>
+
+
+    </FrameLayout>
+
+
+
+
+
+</ScrollView>

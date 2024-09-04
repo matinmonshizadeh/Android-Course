@@ -1,0 +1,9 @@
+<!-- white_heart.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/white" />
+    <size
+        android:width="52dp"
+        android:height="52dp" />
+</shape>
+

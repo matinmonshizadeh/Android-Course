@@ -7,8 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="grey_transparent">#F0F0F0</color>
-    <color name="blue_section1">#47A69C</color>
-    <color name="grey">#808080</color>
-
+    <color name="gray_icon_border">#f5f5f5</color>
+    <color name="gray_line">#ebf0f0</color>
+    <color name="blue_filters_button">#ebf0f0</color>
+    <color name="mid_black">#141928</color>
 </resources>
