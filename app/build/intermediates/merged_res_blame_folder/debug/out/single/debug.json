@@ -1,182 +1,178 @@
 [
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\font_asap.ttf.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\font\\asap.ttf"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_movie.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_house1.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\house1.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_ic_web.png.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\ic_web.png"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_image.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\image.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_search.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_search.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_house3.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\house3.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_ic_digimovies.jpg.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\ic_digimovies.jpg"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_ic_email.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\ic_email.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_movie_details.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_movie_details.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_house5.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\house5.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_sample_movie_poster.jpg.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\sample_movie_poster.jpg"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_back.png.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\back.png"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\font_arimo.ttf.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\font\\arimo.ttf"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_home.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_home.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\xml\\backup_rules.xml"
+        "merged": "com.example.project.app-merged_res-43:/layout_bottom_navigation_bar.xml.flat",
+        "source": "com.example.project.app-main-45:/layout/bottom_navigation_bar.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_icon_border.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\icon_border.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\layout_activity_card_detail.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\activity_card_detail.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_access_time.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_access_time.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_calendar_month.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_calendar_month.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_search.png.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\search.png"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\menu\\bottom_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_ic_map.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\ic_map.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_icon_card_detail_shape.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\icon_card_detail_shape.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_heart.png.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\heart.png"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_ic_phone.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\ic_phone.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\font_cabin_medium.ttf.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\font\\cabin_medium.ttf"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\rounded_background.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_menu.png.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\menu.png"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_genre_movies.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_genre_movies.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_ic_star.png.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\ic_star.png"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_house2.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\house2.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_item_slider.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_slider.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\layout_item_card_detail.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_card_detail.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_bottom_navigation_bar.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\bottom_navigation_bar.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_icon_card_detail_shape2.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\icon_card_detail_shape2.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_white_overlay_background.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\white_overlay_background.xml"
     },
     {
-        "merged": "com.example.hw2.app-merged_res-36:/layout_activity_main.xml.flat",
-        "source": "com.example.hw2.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_image.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_icon_white.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\icon_white.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_search_view_background.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\search_view_background.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_house4.jpg.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\house4.jpg"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.hw2.app-merged_res-36:/layout_activity_card_detail.xml.flat",
-        "source": "com.example.hw2.app-main-38:/layout/activity_card_detail.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_item_genre.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_genre.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\layout_item_card.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_card.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_icon_card_shape.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\icon_card_shape.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_filter_shape.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\filter_shape.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_arrow_back.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_arrow_back.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_search.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\drawable_setting.png.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\drawable\\setting.png"
-    },
-    {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-merged_res-36:\\layout_item_filter.xml.flat",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_filter.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-merged_res-43:\\drawable_baseline_favorite_black.xml.flat",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\drawable\\baseline_favorite_black.xml"
     }
 ]

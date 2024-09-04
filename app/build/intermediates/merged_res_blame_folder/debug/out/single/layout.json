@@ -1,30 +1,54 @@
 [
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-mergeDebugResources-35:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\item_movie.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_movie.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-mergeDebugResources-35:\\layout\\item_card_detail.xml",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_card_detail.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\item_slider.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_slider.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-mergeDebugResources-35:\\layout\\item_card.xml",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_card.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_movie_details.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_movie_details.xml"
     },
     {
-        "merged": "com.example.hw2.app-mergeDebugResources-35:/layout/activity_main.xml",
-        "source": "com.example.hw2.app-main-38:/layout/activity_main.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\item_image.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_image.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-mergeDebugResources-35:\\layout\\item_filter.xml",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\item_filter.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.hw2.app-mergeDebugResources-35:/layout/activity_card_detail.xml",
-        "source": "com.example.hw2.app-main-38:/layout/activity_card_detail.xml"
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_sign_up.xml"
     },
     {
-        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-mergeDebugResources-35:\\layout\\activity_card_detail.xml",
-        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.hw2.app-main-38:\\layout\\activity_card_detail.xml"
+        "merged": "com.example.project.app-mergeDebugResources-42:/layout/bottom_navigation_bar.xml",
+        "source": "com.example.project.app-main-45:/layout/bottom_navigation_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_genre_movies.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_genre_movies.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\bottom_navigation_bar.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\bottom_navigation_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\item_genre.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\item_genre.xml"
+    },
+    {
+        "merged": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-mergeDebugResources-42:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\matin\\.gradle\\daemon\\7.5\\com.example.project.app-main-45:\\layout\\activity_home.xml"
     }
 ]

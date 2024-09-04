@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <!-- INTERNET permission-->
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -9,13 +12,11 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.HW2"
+        android:theme="@style/Theme.Project"
         tools:targetApi="31">
+
         <activity
-            android:name=".CardDetailActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".features.splash_activity.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,6 +24,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".features.signup_activity.SignUpActivity" />
+        <activity android:name=".features.home_activity.HomeActivity" />
+        <activity android:name=".features.movie_details.MovieDetailsActivity" />
+        <activity android:name=".features.genre_movies_activity.GenreMoviesActivity" />
+        <activity android:name=".features.search_activity.SearchActivity" android:windowSoftInputMode="adjustPan"/>
     </application>
 
 </manifest>

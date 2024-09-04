@@ -1,139 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
-    <FrameLayout
-        android:id="@+id/section1_header"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <ImageView
-            android:id="@+id/test"
-            android:layout_width="52dp"
-            android:layout_height="52dp"
-            android:padding="8dp"
-            android:layout_marginTop="20dp"
-            android:layout_marginLeft="20dp"
-            android:src="@drawable/menu"
-            android:background="@drawable/icon_border"/>
-
-
-        <ImageView
-            android:layout_width="52dp"
-            android:layout_height="52dp"
-            android:padding="8dp"
-            android:layout_marginTop="20dp"
-            android:layout_marginRight="20dp"
-            android:src="@drawable/search"
-            android:background="@drawable/icon_border"
-            android:layout_gravity="end"/>
-
-    </FrameLayout>
-
-    <FrameLayout
-        android:id="@+id/section2_header"
-        android:layout_width="match_parent"
+    <TextView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp">
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="City"
-            android:layout_marginLeft="12dp"
-            android:layout_gravity="center_vertical"
-            android:textColor="@color/black"
-            android:textSize="20sp"
-            android:fontFamily="@font/arimo"
-            />
-
-    </FrameLayout>
-
-    <FrameLayout
-        android:id="@+id/section3_header"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="150dp"
-       >
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="San Francisco"
-            android:layout_gravity="bottom"
-            android:textSize="36sp"
-            android:textColor="@color/black"
-            android:layout_marginLeft="12dp"
-            android:layout_marginBottom="10dp"
-            android:textStyle="bold"
-            android:fontFamily="@font/arimo"/>
-
-        <ImageView
-            android:layout_width="28dp"
-            android:layout_height="28dp"
-            android:src="@drawable/setting"
-            android:layout_gravity="bottom|end"
-            android:layout_marginRight="12dp"
-            android:layout_marginBottom="10dp" />
-
-        <View
-            android:layout_width="385dp"
-            android:layout_height="2dp"
-            android:layout_gravity="bottom|center_horizontal"
-            android:background="@color/gray_line"/>
-
-    </FrameLayout>
-
-    <FrameLayout
-        android:id="@+id/section1_body"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="215dp"
-        android:layout_marginLeft="12dp">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerFilter"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:listitem="@layout/item_filter"
-            android:clipToPadding="false"/>
-
-    </FrameLayout>
-
-    <FrameLayout
-        android:id="@+id/section2_body"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="280dp"
-        android:layout_marginLeft="12dp">
-
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerCard"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            tools:listitem="@layout/item_card"
-            android:clipToPadding="false"/>
-
-    </FrameLayout>
-
-
-
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/flb"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal|bottom"
-        android:layout_marginBottom="16dp"
-        android:src="@drawable/ic_map"
-        app:backgroundTint="@android:color/white"/>
-
-
-
-
-
-</FrameLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

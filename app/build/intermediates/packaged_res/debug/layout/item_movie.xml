@@ -1,0 +1,121 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="8dp"
+    android:padding="16dp">
+
+    <!-- Movie Poster -->
+    <ImageView
+        android:id="@+id/moviePoster"
+        android:layout_width="120dp"
+        android:layout_height="180dp"
+        android:layout_marginEnd="16dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:elevation="4dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sample_movie_poster"
+        tools:ignore="ContentDescription" />
+
+    <!-- Movie Title -->
+    <TextView
+        android:id="@+id/movieTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="8dp"
+        android:layout_toRightOf="@id/moviePoster"
+        android:fontFamily="sans-serif-medium"
+        android:text="Fight Club"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <!-- Rating Icon -->
+    <ImageView
+        android:id="@+id/iconRating"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/movieTitle"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/moviePoster"
+        android:src="@drawable/ic_star"
+        tools:ignore="ContentDescription" />
+
+    <!-- Rating Text -->
+    <TextView
+        android:id="@+id/movieRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iconRating"
+        android:layout_marginStart="4dp"
+        android:layout_toRightOf="@id/iconRating"
+        android:fontFamily="sans-serif-light"
+        android:text="9.0"
+        android:textColor="#000"
+        android:textSize="16sp" />
+
+    <!-- Country Icon -->
+    <ImageView
+        android:id="@+id/iconCountry"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/iconRating"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/moviePoster"
+        android:src="@drawable/ic_web"
+        tools:ignore="ContentDescription" />
+
+    <!-- Country Text -->
+    <TextView
+        android:id="@+id/movieCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iconCountry"
+        android:layout_marginStart="4dp"
+        android:layout_toRightOf="@id/iconCountry"
+        android:fontFamily="sans-serif-light"
+        android:text="USA"
+        android:textColor="#000"
+        android:textSize="16sp" />
+
+    <!-- Year Icon -->
+    <ImageView
+        android:id="@+id/iconYear"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/movieCountry"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@id/moviePoster"
+        android:src="@drawable/baseline_calendar_month"
+        tools:ignore="ContentDescription" />
+
+    <!-- Year Text -->
+    <TextView
+        android:id="@+id/movieYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iconYear"
+        android:layout_marginStart="4dp"
+        android:layout_toRightOf="@id/iconYear"
+        android:fontFamily="sans-serif-light"
+        android:text="1999"
+        android:textColor="#000"
+        android:textSize="16sp" />
+
+    <!-- Get More Info Button -->
+    <TextView
+        android:id="@+id/buttonMoreInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/movieYear"
+        android:layout_marginTop="16dp"
+        android:layout_toRightOf="@id/moviePoster"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:fontFamily="sans-serif-medium"
+        android:padding="4dp"
+        android:text="Get more info >"
+        android:textColor="#F00"
+        android:textSize="16sp" />
+
+</RelativeLayout>
