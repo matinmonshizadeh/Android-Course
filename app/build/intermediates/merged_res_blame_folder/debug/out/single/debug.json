@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_score.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_score.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.hw1.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_cart_outline.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/cart_outline.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digiclub1.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digiclub1.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_bell.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_bell.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_magnet.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_magnet.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_card.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_card.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_fav_icon.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_fav_icon.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.example.hw1.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_comments_icon.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_comments_icon.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_club.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_club.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_unpaid.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_unpaid.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_process.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_process.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_wallet.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_wallet.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.hw1.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_left_arrow.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/left_arrow.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_settings.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_settings.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digiclub2.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digiclub2.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_contact_us.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_contact_us.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_cancel.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_cancel.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_adresses_icon.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_adresses_icon.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_person.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_person.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.hw1.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/drawable_digi_sent.png.flat",
+        "source": "com.example.hw1.app-main-34:/drawable/digi_sent.png"
+    },
+    {
+        "merged": "com.example.hw1.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.hw1.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

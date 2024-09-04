@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/setting_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:src="@drawable/digi_settings" />
+
+        <ImageView
+            android:id="@+id/bell_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/digi_bell"
+            android:layout_marginTop="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="70dp"
+            android:text="علی رحیمی"
+            android:textColor="@color/black"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="09179544301"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/name"
+            android:textSize="10dp"
+            />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/section1"
+            android:layout_below="@id/phone"
+            android:layout_marginTop="30dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/divider_section1"
+                android:layout_centerVertical="true">
+
+                <ImageView
+                    android:id="@+id/score_icon"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/digi_score"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="20dp"
+                    />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toLeftOf="@id/score_icon"
+                    android:layout_marginRight="3dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/score_number"
+                        android:text="۵"
+                        android:layout_alignParentEnd="true"
+                        android:textColor="@color/black"
+                        android:textSize="14dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="امتیاز"
+                        android:layout_toLeftOf="@id/score_number"
+                        android:layout_marginRight="4dp"
+                        android:textSize="14dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ماموریت های دیجی کلاب >"
+                        android:layout_below="@id/score_number"
+                        android:layout_alignParentEnd="true"
+                        android:textSize="14dp"
+                        android:textColor="@color/blue_section1"
+                        />
+
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toStartOf="@id/divider_section1"
+                >
+                <ImageView
+                    android:id="@+id/wallet_icon"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/digi_wallet"
+                    android:layout_centerHorizontal="true"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/wallet_icon"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="5dp"
+                    android:text="فعال سازی کیف پول"
+                    android:textColor="@color/black"
+                    android:textSize="14dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider_section1"
+                android:layout_width="1dp"
+                android:layout_height="70dp"
+                android:layout_centerHorizontal="true"
+                android:background="@color/grey_transparent"/>
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/divider2"
+            android:layout_width="match_parent"
+            android:layout_height="7dp"
+            android:layout_centerHorizontal="true"
+            android:background="@color/grey_transparent"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/section1"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/divider2"
+            android:id="@+id/section2"
+            android:layout_marginTop="20dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toStartOf="@id/divider_section2"
+                android:layout_centerVertical="true">
+
+                <ImageView
+                    android:id="@+id/contact_us_icon"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/digi_contact_us"
+                    android:layout_centerHorizontal="true"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="تماس با ما"
+                    android:layout_below="@id/contact_us_icon"
+                    android:layout_centerHorizontal="true"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="3dp"
+                    />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/divider_section2"
+                android:layout_centerVertical="true">
+
+                <ImageView
+                    android:id="@+id/digi_club_icon"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/digi_club"
+                    android:layout_centerHorizontal="true"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="دیجی کلاب"
+                    android:layout_below="@id/digi_club_icon"
+                    android:layout_centerHorizontal="true"
+                    android:textColor="@color/black"
+                    android:layout_marginTop="3dp"
+                    />
+
+            </RelativeLayout>
+
+
+            <View
+                android:id="@+id/divider_section2"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:background="@color/white"
+                android:layout_centerHorizontal="true"/>
+
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/divider4"
+            android:layout_width="match_parent"
+            android:layout_height="7dp"
+            android:layout_below="@id/section2"
+            android:layout_marginTop="77dp"
+            android:background="@color/grey_transparent" />
+
+        <TextView
+            android:id="@+id/my_orders"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="سفارش های من"
+            android:layout_below="@id/divider4"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="12dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <RelativeLayout
+            android:id="@+id/section3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/my_orders"
+            android:layout_marginTop="10dp"
+            >
+
+            <View
+                android:id="@+id/divider1_section3"
+                android:layout_width="1dp"
+                android:layout_height="85dp"
+                android:layout_centerHorizontal="true"
+                android:background="@color/grey_transparent"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toStartOf="@id/divider1_section3">
+
+                <View
+                    android:id="@+id/divider2_section3"
+                    android:layout_width="1dp"
+                    android:layout_height="85dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/grey_transparent"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toStartOf="@id/divider2_section3">
+
+                    <ImageView
+                        android:id="@+id/cancel_icon"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/digi_cancel"
+                        android:layout_centerHorizontal="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="لغو شده"
+                        android:textColor="@color/black"
+                        android:layout_below="@id/cancel_icon"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@id/divider2_section3">
+
+                    <ImageView
+                        android:id="@+id/sent_icon"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/digi_sent"
+                        android:layout_centerHorizontal="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="تحویل شده"
+                        android:textColor="@color/black"
+                        android:layout_below="@id/sent_icon"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"/>
+
+
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@id/divider1_section3">
+
+                <View
+                    android:id="@+id/divider3_section3"
+                    android:layout_width="1dp"
+                    android:layout_height="85dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@color/grey_transparent"/>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toStartOf="@id/divider3_section3">
+
+                    <ImageView
+                        android:id="@+id/process_icon"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/digi_process"
+                        android:layout_centerHorizontal="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="در حال پردازش"
+                        android:textColor="@color/black"
+                        android:layout_below="@id/process_icon"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_toEndOf="@id/divider3_section3">
+
+                    <ImageView
+                        android:id="@+id/unpaid_icon"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/digi_unpaid"
+                        android:layout_centerHorizontal="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="در انتظار پرداخت"
+                        android:textColor="@color/black"
+                        android:layout_below="@id/unpaid_icon"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="5dp"/>
+
+                </RelativeLayout>
+
+                <View
+                    android:id="@+id/divider4_section3"
+                    android:layout_width="1dp"
+                    android:layout_height="85dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="3dp"
+                    android:background="@color/grey_transparent"/>
+
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:layout_below="@id/section3"
+            android:src="@drawable/digiclub1"
+            android:layout_centerHorizontal="true"/>
+
+
+        <RelativeLayout
+            android:id="@+id/section4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/image1"
+>
+
+            <RelativeLayout
+                android:id="@+id/section4_section1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:id="@+id/fav_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_fav_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="لیست ها"
+                    android:layout_toLeftOf="@id/fav_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider1_section4"
+                android:layout_width="337dp"
+                android:layout_height="1dp"
+                android:layout_below="@id/section4_section1"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/grey_transparent" />
+
+            <RelativeLayout
+                android:id="@+id/section4_section2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/divider1_section4">
+
+                <ImageView
+                    android:id="@+id/comment_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_comments_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="نقد و نظرات"
+                    android:layout_toLeftOf="@id/comment_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider2_section4"
+                android:layout_width="337dp"
+                android:layout_height="1dp"
+                android:layout_below="@id/section4_section2"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/grey_transparent" />
+
+            <RelativeLayout
+                android:id="@+id/section4_section3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/divider2_section4">
+
+                <ImageView
+                    android:id="@+id/addresses_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_adresses_icon"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="نقد و نظرات"
+                    android:layout_toLeftOf="@id/addresses_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider3_section4"
+                android:layout_width="337dp"
+                android:layout_height="1dp"
+                android:layout_below="@id/section4_section3"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/grey_transparent" />
+
+            <RelativeLayout
+                android:id="@+id/section4_section4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/divider3_section4">
+
+                <ImageView
+                    android:id="@+id/card_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_card"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="کارت های هدیه"
+                    android:layout_toLeftOf="@id/card_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider4_section4"
+                android:layout_width="337dp"
+                android:layout_height="1dp"
+                android:layout_below="@id/section4_section4"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/grey_transparent" />
+
+            <RelativeLayout
+                android:id="@+id/section4_section5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/divider4_section4">
+
+                <ImageView
+                    android:id="@+id/magnet_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_magnet"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="فعال سازی مگنت"
+                    android:layout_toLeftOf="@id/magnet_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/divider5_section4"
+                android:layout_width="337dp"
+                android:layout_height="1dp"
+                android:layout_below="@id/section4_section5"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="15dp"
+                android:background="@color/grey_transparent" />
+
+            <RelativeLayout
+                android:id="@+id/section4_section6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/divider5_section4">
+
+                <ImageView
+                    android:id="@+id/person_icon"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/digi_person"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="20dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="اطلاعات حساب کاربری"
+                    android:layout_toLeftOf="@id/person_icon"
+                    android:layout_marginRight="20dp"
+                    android:textColor="@color/black"/>
+
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/left_arrow"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/image2"
+            android:layout_width="350dp"
+            android:layout_height="300dp"
+            android:layout_below="@id/section4"
+            android:src="@drawable/digiclub2"
+            android:layout_centerHorizontal="true"/>
+
+
+
+
+    </RelativeLayout>
+</ScrollView>
